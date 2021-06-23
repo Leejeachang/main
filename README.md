@@ -48,7 +48,7 @@
 <body>
 	
 
-(https://user-images.githubusercontent.com/85924643/123109990-a9818800-d476-11eb-9270-2e47a3ba5efa.jpg)
+!(https://user-images.githubusercontent.com/85924643/123109990-a9818800-d476-11eb-9270-2e47a3ba5efa.jpg)
 
 
 	<div id="Job">
