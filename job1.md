@@ -45,29 +45,28 @@
 
 </head>
 
-<title>job2</title>
+<title>1751026 이재창 11주차 과제입니다.</title>
 
 <body>
 	
 
 	<div id='image'>
-		<img src="woodcutter.jpg">
+		<img src="chef.jpg">
 	</div>
 	<div id="Job">
-	<h3>나무꾼</h3>
-	<p>나무꾼이란 벌채 산업에서 임산물로 가공될 나무를 일차적으로 수확 및 운송하는 자를 말한다.</p>
+	<h3>요리사</h3>
+	<p>요리사 혹은 조리사는 식당에서 전문으로 요리 혹은 조리를 하는 사람을 말한다. 한국을 비롯한 여러 국가에서는 시험을 통해 조리사 자격증을 발부하여 전문 조리사와 민간 조리사를 구별한다.</p>
 	</div>
-	
-	<ul id="menu">
-		<li><a href="job1.html">요리사</a></li>
-		<li><a href="job2.html">의사</a></li>
-		<li><a href="job3.html">소방관</a></li>
-		<li><a href="job4.html">광부</a></li>
-		<li><a href="job5.html">경찰</a></li>
-		<li><a href="job6.html">나무꾼</a></li>
-	</ul>
 
 	
+	<ul id="menu">
+		<li><a href="#Job1">요리사</a></li>
+		<li><a href="#Job2">의사</a></li>
+		<li><a href="#Job3">소방관</a></li>
+		<li><a href="#Job4">광부</a></li>
+		<li><a href="#Job5">경찰</a></li>
+		<li><a href="#Job6">나무꾼</a></li>
+	</ul>
 
 
 </body>
