@@ -47,9 +47,8 @@
 
 <body>
 	
+![chef](https://user-images.githubusercontent.com/85924643/123111328-c9fe1200-d477-11eb-9a80-d87b4b22c00e.jpg)
 
-	<div id='image'>
-		<img src="https://user-images.githubusercontent.com/85924643/123109990-a9818800-d476-11eb-9270-2e47a3ba5efa.jpg">
 	</div>
 	<div id="Job">
 	<h3>요리사</h3>
@@ -66,7 +65,7 @@
 	</ul>
 
 	
-https://github.com/Leejeachang/main/issues/1#issue-928290965
+
 
 </body>
 </html>
