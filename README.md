@@ -49,7 +49,7 @@
 	
 
 	<div id='image'>
-		<img src="chef.jpg">
+		<img src="https://user-images.githubusercontent.com/85924643/123109990-a9818800-d476-11eb-9270-2e47a3ba5efa.jpg">
 	</div>
 	<div id="Job">
 	<h3>요리사</h3>
